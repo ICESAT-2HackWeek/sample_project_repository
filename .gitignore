@@ -105,4 +105,7 @@ venv.bak/
 
 # Data files
 *.h5
+*.hdf
+*.hdf5
+*.nc
 *.tif
