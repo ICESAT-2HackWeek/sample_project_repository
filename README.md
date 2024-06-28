@@ -1,3 +1,5 @@
+# ATTENTION: This project repository has been archived in favor of https://github.com/uwhackweek/sample_project_repository. This repo is no longer maintained.
+
 # Sample Project
 
 This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template, provided originally for [Geohackweek](https://github.com/geohackweek/sample_project_repository).
